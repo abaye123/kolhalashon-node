@@ -1,0 +1,31 @@
+[
+  {
+    "FolderId": 123977,
+    "CatId": "000604",
+    "LanguageId": 3,
+    "RavId": 674,
+    "RavMainFolder": 1,
+    "RavMainLabelHebrew": "שיעורים ושיחות בחסידות",
+    "RavMainLabelEnglish": "Shiurim & Sichos in Chasidus",
+    "NumberOfLeaves": 1842,
+    "HideFromPhone": false,
+    "HideFromWeb": false,
+    "HideFromKiosk": false,
+    "AccessCode": 0
+  },
+  {
+    "FolderId": 118402,
+    "CatId": "014887",
+    "LanguageId": 1,
+    "RavId": 674,
+    "RavMainFolder": 2,
+    "RavMainLabelHebrew": "שיחה שבועית בפרשת השבוע, אש קודש ב''ב",
+    "RavMainLabelEnglish": "Parshas Hashavua in Esh Kodesh Bnei Brak",
+    "NumberOfLeaves": 417,
+    "HideFromPhone": false,
+    "HideFromWeb": true,
+    "HideFromKiosk": false,
+    "AccessCode": 1,
+    "SomeFieldAddedLater": 42
+  }
+]

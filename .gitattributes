@@ -1,0 +1,4 @@
+# LF everywhere, so a Windows checkout does not rewrite the checked-in fixtures.
+* text=auto eol=lf
+*.png binary
+*.jpg binary

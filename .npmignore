@@ -1,0 +1,9 @@
+# `files` in package.json is the allowlist; this file only guards against stray additions.
+src/
+test/
+examples/
+.github/
+tsconfig.json
+tsup.config.ts
+vitest.config.ts
+eslint.config.js
